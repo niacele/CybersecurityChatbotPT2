@@ -1,0 +1,8 @@
+C:\Users\Nia\source\repos\ByteBuddy - CybersecurityChatbot\ByteBuddy - CybersecurityChatbot\obj\Debug\ByteBuddy - CybersecurityChatbot.csproj.AssemblyReference.cache
+C:\Users\Nia\source\repos\ByteBuddy - CybersecurityChatbot\ByteBuddy - CybersecurityChatbot\obj\Debug\ByteBuddy - CybersecurityChatbot.csproj.CoreCompileInputs.cache
+C:\Users\Nia\source\repos\ByteBuddy - CybersecurityChatbot\ByteBuddy - CybersecurityChatbot\bin\Debug\ByteBuddy - CybersecurityChatbot.exe.config
+C:\Users\Nia\source\repos\ByteBuddy - CybersecurityChatbot\ByteBuddy - CybersecurityChatbot\bin\Debug\ByteBuddy - CybersecurityChatbot.exe
+C:\Users\Nia\source\repos\ByteBuddy - CybersecurityChatbot\ByteBuddy - CybersecurityChatbot\bin\Debug\ByteBuddy - CybersecurityChatbot.pdb
+C:\Users\Nia\source\repos\ByteBuddy - CybersecurityChatbot\ByteBuddy - CybersecurityChatbot\obj\Debug\ByteBuddy - CybersecurityChatbot.exe
+C:\Users\Nia\source\repos\ByteBuddy - CybersecurityChatbot\ByteBuddy - CybersecurityChatbot\obj\Debug\ByteBuddy - CybersecurityChatbot.pdb
+C:\Users\Nia\source\repos\ByteBuddy - CybersecurityChatbot\ByteBuddy - CybersecurityChatbot\obj\Debug\ByteBuddy - CybersecurityChatbot.exe.config
